@@ -1,2 +1,3 @@
-# learning-python
-My journey learning python
+# Mycodingjourney
+Ijust started learning python.
+
